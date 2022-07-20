@@ -2,7 +2,7 @@
 
 Este proyecto es un sitio web para el restaurante eriCCrazy
 
-Tiene varios segmenteos: index.html, contacto.html
+Tiene varios segmenteos: `index.html`, `contacto.html`
 
 ## DOCUMNETACION 
 
@@ -13,8 +13,7 @@ Tiene varios segmenteos: index.html, contacto.html
 
 Para añadir un bloque de condigo html, usemos el siguiente ejemplo:
 
-...
+```
+<html></html>
 
-<html> SI </html>
-
-...
+```
